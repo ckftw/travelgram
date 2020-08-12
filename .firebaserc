@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "socialmedi-29002": {
+      "hosting": {
+        "travelgram": [
+          "socialmedi-29002"
+        ]
+      }
+    }
+  }
+}
